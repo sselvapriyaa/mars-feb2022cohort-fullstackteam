@@ -2,6 +2,7 @@ import React from 'react';
 import SelvapriyaA from '../../images/SelvapriyaA.jpg'
 import 'AboutSelvapriya.css'
 
+
 function About(props) {
     return (
         <div className = "text-center">
