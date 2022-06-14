@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mars-feb2022cohort-fullstackteam/static/css/main.073c9b0a.css",
+    "main.js": "/mars-feb2022cohort-fullstackteam/static/js/main.74c80e1c.js",
+    "static/js/787.fca68459.chunk.js": "/mars-feb2022cohort-fullstackteam/static/js/787.fca68459.chunk.js",
+    "static/media/logo.svg": "/mars-feb2022cohort-fullstackteam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mars-feb2022cohort-fullstackteam/index.html",
+    "main.073c9b0a.css.map": "/mars-feb2022cohort-fullstackteam/static/css/main.073c9b0a.css.map",
+    "main.74c80e1c.js.map": "/mars-feb2022cohort-fullstackteam/static/js/main.74c80e1c.js.map",
+    "787.fca68459.chunk.js.map": "/mars-feb2022cohort-fullstackteam/static/js/787.fca68459.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.74c80e1c.js"
+  ]
+}
