@@ -85,7 +85,7 @@ function App() {
           <Route
             path="/mars-feb2022cohort-fullstackteam/home"
             element={<Home />}
-          />
+          />    
           <Route
             path="/mars-feb2022cohort-fullstackteam/Colton"
             element={<Colton />}
