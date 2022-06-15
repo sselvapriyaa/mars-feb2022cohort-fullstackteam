@@ -1,4 +1,4 @@
-// Bootstrap
+// Selva added comments for testing Bootstrap
 import {
   Card,
   Carousel,
@@ -9,7 +9,7 @@ import {
   NavDropdown,
   Row,
 } from "react-bootstrap";
-import { BrowserRouter as Router, Link, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Link, Routes, Route } from "react-router-dom";
 import AboutLynn from "./components/Lynn/AboutLynn";
 import AboutSelvapriya from "./components/Selvapriya/AboutSelvapriya";
 // Personal Style
@@ -38,7 +38,7 @@ function App() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
-                <Nav.Link href="/mars-feb2022cohort-fullstackteam/">
+                <Nav.Link href="/mars-feb2022cohort-fullstackteam">
                   Home
                 </Nav.Link>
                 <NavDropdown
