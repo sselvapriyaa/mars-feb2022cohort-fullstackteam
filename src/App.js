@@ -32,7 +32,7 @@ function App() {
       <Router>
         <Navbar bg="light" expand="lg">
           <Container>
-            <Navbar.Brand href="/mars-feb2022cohort-fullstackteam/">
+            <Navbar.Brand href="/mars-feb2022cohort-fullstackteam">
               MARS - Feb. 2022 Cohort Group Portfolio
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
