@@ -45,7 +45,7 @@ function App() {
                   title="February 2022 Returners"
                   id="basic-nav-dropdown"
                 >
-                  <NavDropdown.Item href="./mars-feb2022cohort-fullstackteam/Colton">
+                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam/Colton">
                     Colton W
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
