@@ -10,7 +10,7 @@ import {
   NavDropdown,
   Row,
 } from "react-bootstrap";
-import { BrowserRouter as Router, Link, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Link, Routes, Route } from "react-router-dom";
 // Personal Style
 import "../App.css";
 
@@ -103,7 +103,7 @@ function Home(props) {
       <Container>
         <Row xs={1} md={2} lg={4} className="g-4">
           <Col>
-            <Link to="/mars-feb2022cohort-fullstackteam/Colton">
+            <Link to="/mars-feb2022cohort-fullstackteam/Colton#/mars-feb2022cohort-fullstackteam/Colton">
               <Card>
                 <Card.Img
                   className="rounded-circle"

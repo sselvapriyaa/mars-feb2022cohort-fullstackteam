@@ -9,7 +9,7 @@ import {
   NavDropdown,
   Row,
 } from "react-bootstrap";
-import { BrowserRouter as Router, Link, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Link, Routes, Route } from "react-router-dom";
 import AboutLynn from "./components/Lynn/AboutLynn";
 import AboutSelvapriya from "./components/Selvapriya/AboutSelvapriya";
 // Personal Style
@@ -49,7 +49,7 @@ function App() {
                     Colton W
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam/Lynn">
+                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam#/mars-feb2022cohort-fullstackteam/Lynn">
                     Lynn R
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
