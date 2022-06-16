@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mars-feb2022cohort-fullstackteam/static/css/main.bc857fca.css",
-    "main.js": "/mars-feb2022cohort-fullstackteam/static/js/main.ab80f3c4.js",
+    "main.css": "/mars-feb2022cohort-fullstackteam/static/css/main.1860e01c.css",
+    "main.js": "/mars-feb2022cohort-fullstackteam/static/js/main.cac15944.js",
     "static/js/787.fca68459.chunk.js": "/mars-feb2022cohort-fullstackteam/static/js/787.fca68459.chunk.js",
     "static/media/Naga_Priya_Img_2.png": "/mars-feb2022cohort-fullstackteam/static/media/Naga_Priya_Img_2.3621490fc206e540b3a6.png",
     "static/media/ColtonW.jpg": "/mars-feb2022cohort-fullstackteam/static/media/ColtonW.ccf8539d1b4a5342017c.jpg",
@@ -19,12 +19,12 @@
     "static/media/SelvapriyaA.jpg": "/mars-feb2022cohort-fullstackteam/static/media/SelvapriyaA.e1a1d368238a98ea84a8.jpg",
     "static/media/RichardF.jpg": "/mars-feb2022cohort-fullstackteam/static/media/RichardF.7a73db9a767eaaa15eb7.jpg",
     "index.html": "/mars-feb2022cohort-fullstackteam/index.html",
-    "main.bc857fca.css.map": "/mars-feb2022cohort-fullstackteam/static/css/main.bc857fca.css.map",
-    "main.ab80f3c4.js.map": "/mars-feb2022cohort-fullstackteam/static/js/main.ab80f3c4.js.map",
+    "main.1860e01c.css.map": "/mars-feb2022cohort-fullstackteam/static/css/main.1860e01c.css.map",
+    "main.cac15944.js.map": "/mars-feb2022cohort-fullstackteam/static/js/main.cac15944.js.map",
     "787.fca68459.chunk.js.map": "/mars-feb2022cohort-fullstackteam/static/js/787.fca68459.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc857fca.css",
-    "static/js/main.ab80f3c4.js"
+    "static/css/main.1860e01c.css",
+    "static/js/main.cac15944.js"
   ]
 }
