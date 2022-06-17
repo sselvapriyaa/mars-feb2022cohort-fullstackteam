@@ -10,7 +10,7 @@ import {
   NavDropdown,
   Row,
 } from "react-bootstrap";
-import { BrowserRouter as Router, Link, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Link, Routes, Route } from "react-router-dom";
 // Personal Style
 import "../App.css";
 
