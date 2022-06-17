@@ -9,6 +9,7 @@ import {
   NavDropdown,
   Row,
 } from "react-bootstrap";
+import {useNavigate} from "react-router-dom";
 import { HashRouter as Router, Link, Routes, Route } from "react-router-dom";
 import AboutLynn from "./components/Lynn/AboutLynn";
 import AboutSelvapriya from "./components/Selvapriya/AboutSelvapriya";
@@ -26,7 +27,7 @@ import mountains2 from "./images/mountains2.jpg";
 import mountains3 from "./images/mountains3.jpg";
 
 function App() {
-
+//let navigate = useNavigate()
   return (
     <div className="App">
       <Router>
@@ -45,27 +46,27 @@ function App() {
                   title="February 2022 Returners"
                   id="basic-nav-dropdown"
                 >
-                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam/Colton">
+                  <NavDropdown.Item href = "#/mars-feb2022cohort-fullstackteam/Colton">
                     Colton W
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam#/mars-feb2022cohort-fullstackteam/Lynn">
+                  <NavDropdown.Item href="#/mars-feb2022cohort-fullstackteam/Lynn">
                     Lynn R
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam/Heidi">
+                  <NavDropdown.Item href="#/mars-feb2022cohort-fullstackteam/Heidi">
                     Heidi W
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam/Annie">
+                  <NavDropdown.Item href="#/mars-feb2022cohort-fullstackteam/Annie">
                     Annie W
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam/NagaPriya">
+                  <NavDropdown.Item href="#/mars-feb2022cohort-fullstackteam/NagaPriya">
                     Naga Priya
                     </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/mars-feb2022cohort-fullstackteam/Selvapriya">
+                  <NavDropdown.Item href="#/mars-feb2022cohort-fullstackteam/Selvapriya">
                      Selvapriya A 
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
@@ -87,7 +88,7 @@ function App() {
             element={<Home />}
           />    
           <Route
-            path="/mars-feb2022cohort-fullstackteam/Colton"
+            path='/mars-feb2022cohort-fullstackteam/Colton'
             element={<Colton />}
           />
           <Route
